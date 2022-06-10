@@ -1,0 +1,35 @@
+
+#fixed{
+    position: fixed;
+    padding: 50px;
+    padding-right: 60px;
+    top: 0%;
+    left: 0%;
+    background-color: #eee;
+    text-align: center;
+}
+
+#whole {
+    margin-left: 150px;
+    margin-right:150px;
+    width: 60%;
+}
+
+#relative{
+    background-color: lightgray;
+    position: relative;
+    text-align: center;
+    height: 150px;
+    padding: 75px;
+}
+
+#absolute{
+    background-color: gray;
+    position:absolute;
+    text-align: right;
+    right: 32%;
+    height: 80px;
+    width: 150px;
+    padding: 30px;
+    top: 38%;
+}
